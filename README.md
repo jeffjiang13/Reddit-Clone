@@ -11,15 +11,15 @@ Reddit Clone with REACTJS (Next.js, Firebase v9, Chakra UI, TypeScript, Recoil, 
 
 <!-- Badges -->
 
-<a href="" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+<a href="https://jj-reddit.vercel.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
 ![](https://img.shields.io/github/forks/jeffjiang13/Reddit-Clone.svg)
-![](https://img.shields.io/github/stars/jefjiang13/Reddit-Clone.svg)
+![](https://img.shields.io/github/stars/jeffjiang13/Reddit-Clone.svg)
 ![](https://img.shields.io/github/issues/jeffjiang13/Reddit-Clone)
 ![](https://img.shields.io/github/last-commit/jeffjiang13/Reddit-Clone)
 
 <h4>
-    <a href="">View Demo</a>
+    <a href="https://jj-reddit.vercel.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/jeffjiang13/Reddit-Clone/blob/master/README.md">Documentation</a>
   <span> · </span>
@@ -57,7 +57,7 @@ Reddit Clone with REACTJS (Next.js, Firebase v9, Chakra UI, TypeScript, Recoil, 
 - Create Community, Join Community, Leave Community, Upvote and Downvote Posts
 
 <div align="center">
-<a href=""><img width='800rem' src='./demo/ezgif-5-bba0183ff4.gif' alt='image'/></a>
+<a href="https://jj-reddit.vercel.app/"><img width='800rem' src='./demo/ezgif-5-bba0183ff4.gif' alt='image'/></a>
 </div>
 
 <br />
@@ -65,7 +65,7 @@ Reddit Clone with REACTJS (Next.js, Firebase v9, Chakra UI, TypeScript, Recoil, 
 - Dark Mode & Light Mode
 
 <div align="center">
-<a href=""><img width='800rem' src='./demo/ezgif-5-d29f199523.gif' alt='image'/></a>
+<a href="https://jj-reddit.vercel.app/"><img width='800rem' src='./demo/ezgif-5-d29f199523.gif' alt='image'/></a>
 </div>
 
 <br />
@@ -73,7 +73,7 @@ Reddit Clone with REACTJS (Next.js, Firebase v9, Chakra UI, TypeScript, Recoil, 
 - User Profile Section
 
 <div align="center">
-<a href=""><img width='800rem' src='./demo/ezgif-4-c9902f3c2a.gif' alt='image'/></a>
+<a href="https://jj-reddit.vercel.app/"><img width='800rem' src='./demo/ezgif-4-c9902f3c2a.gif' alt='image'/></a>
 </div>
 
 <br />
@@ -81,15 +81,11 @@ Reddit Clone with REACTJS (Next.js, Firebase v9, Chakra UI, TypeScript, Recoil, 
 - Conversation Section (Reddit Clone Live Chat)
 
 <div align="center">
-<a href=""><img width='800rem' src='./demo/ezgif-1-30bf5499cc.gif' alt='image'/></a>
+<a href="https://jj-reddit.vercel.app/"><img width='800rem' src='./demo/ezgif-1-30bf5499cc.gif' alt='image'/></a>
 </div>
 
-## <a href="" target="_blank">LIVE DEMO 💥</a>
+## <a href="https://jj-reddit.vercel.app/" target="_blank">LIVE DEMO 💥</a>
 
-#### 🔴 Open the camera app on your device and scan the code below (live demo)
-
-<a href=""><img src="./demo/qr/qr-code.png" alt="qr" width="150" height="150" /></a>
-<a href="#instagram"><img src="https://user-images.githubusercontent.com/99184393/182557606-b36f2540-1260-42bf-b547-ed5832e3615e.png" alt="qr" width="150" height="150" /></a>
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
